@@ -1,5 +1,5 @@
 # DirectoryLister
-This is a small add-on for Windows Explorer. It adds a new context menu option in the right-click context menu that allows you to see
+This is a small add-on for Windows Explorer. It adds a new context menu option to the right-click context menu that allows you to see
 the size of each subfolder inside the clicked folder.
 
 # Instructions
